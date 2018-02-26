@@ -1,0 +1,4 @@
+export const GET_CAST_SUCCESS = 'GET_CAST_SUCCESS';
+export const GET_CAST_FAIL = 'GET_CAST_FAIL';
+export const GET_CAST_LOADED = 'GET_CAST_LOADED';
+export const GET_CAST_LOADING= 'GET_CAST_LOADING';
